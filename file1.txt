@@ -1,2 +1,3 @@
 file 1 content
 new info
+new infi in dev_branch
