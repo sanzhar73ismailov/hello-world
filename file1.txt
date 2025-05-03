@@ -1,5 +1,5 @@
 file 1 content
-new info
+new info hgghjgh
 new infi in dev_branch
 111
 commit 1 hh
